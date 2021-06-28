@@ -1,0 +1,69 @@
+.container{
+    width: 1600px;
+    margin-left: 600px;
+}
+.jobs{
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 120px;
+}
+.year{
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 120px;
+}
+.page2{
+    height: 80vh;
+}
+.job{
+    font-size: 60px;
+    margin-left: 100px;
+    position: relative;
+    top: 150px;
+
+}
+.page{
+    background-color: black;
+    color: white;
+    height: 50vh;
+}
+button{
+    height: 40px;
+    width: 150px;
+    font-size: 22px;
+    margin-left: 720px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    top: 120px;
+}
+img{
+    float: right;
+}
+ .bio{
+    font-size: 63px;
+    position: relative;
+    top: 60px;
+    
+    
+}
+.page3{
+  
+    background-color: black;
+    color: white;
+    height: 1150px; 
+    
+}
+p{
+    font-size: 37px;
+    position: relative;
+    left: 450px;
+    top: 140px;
+}
+
+
+
+
